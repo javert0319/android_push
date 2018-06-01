@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TD_master</string>
+    <string name="layout_login">登录界面</string>
+    <string name="layout_regist">注册界面</string>
+    <string name="layout_user">用户信息</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
